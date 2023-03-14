@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arsen7076
-- 👀 I’m interested in ... AI  , QI, Machine Learning
+- 👀 I’m interested in ... Data science, Machine Learning
 - 🌱 I’m currently learning ... C++ ,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
